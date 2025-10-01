@@ -28,13 +28,3 @@
   </a>
 </p>
 
-## 📈 My github stats
-<div align="center">  
-    <img src="https://github-readme-stats.vercel.app/api?username=cyberloomTech&show_icons=true&theme=radical" alt="" />
-</div>
-
-## 📊 Language Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberloomTech&layout=donut-vertical&theme=transparent&border_color=454545" alt="" />
-</div>
