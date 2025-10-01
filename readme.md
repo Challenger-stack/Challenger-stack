@@ -11,23 +11,8 @@
 I'm a **Senior Software Developer** with **7+ years** of experience.
 Passionate coder and fast learner, self-driven and detail-oriented. Skilled at taking initiative, solving problems, and continuously improving to deliver high-quality results.
 
-## 💡 What I Love  
 
-- 🧩 Solving complex challenges
-
-- 💫 Passionate about learning & development to reach the target.
-
-- 🧼 Writing clean, maintainable code 
-
-- 🚀 Delivering scalable, user-friendly solutions  
-
-- ❤️ Putting clients first  
-
-- 📈 Continuous improvement & growth  
-
-- 💥 I would love to build some Giant Website.
-
-## My Tech Stack
+## SKILL
 
 <p align="left">Languages & frameworks</p>
 <p align="left">
