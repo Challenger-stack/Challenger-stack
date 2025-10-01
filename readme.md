@@ -7,11 +7,6 @@
 <img src="https://img.shields.io/github/followers/cyberloomTech?label=Followers&style=social" />
 </p>
 
-
-I'm a **Senior Software Developer** with **7+ years** of experience.
-Passionate coder and fast learner, self-driven and detail-oriented. Skilled at taking initiative, solving problems, and continuously improving to deliver high-quality results.
-
-
 ## SKILL
 
 <p align="left">Languages & frameworks</p>
